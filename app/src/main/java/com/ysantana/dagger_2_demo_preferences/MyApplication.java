@@ -9,7 +9,7 @@ import com.ysantana.dagger_2_demo_preferences.modules.StorageModule;
 /**
  * Created by ysantana on 20/10/2016.
  */
-public class MyApplication extends Application {
+public class MyApplication {
 
     StorageComponent component;
 
